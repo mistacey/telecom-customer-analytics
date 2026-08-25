@@ -1,0 +1,53 @@
+event_id,event_month,market,event_type,severity,affected_customers,downtime_hours
+N00001,2025-01-01,Quebec,Equipment Failure,Minor,111,3.0
+N00002,2025-01-01,Quebec,Service Outage,Minor,59,3.0
+N00003,2025-02-01,Quebec,Service Outage,Minor,53,1.0
+N00004,2025-02-01,Quebec,Service Outage,Minor,110,4.0
+N00005,2025-02-01,Michigan,Equipment Failure,Moderate,347,4.0
+N00006,2025-03-01,New York,Service Outage,Minor,79,3.0
+N00007,2025-03-01,New York,Service Outage,Minor,149,4.0
+N00008,2025-03-01,Ontario,Service Outage,Minor,76,3.0
+N00009,2025-03-01,Ohio,Service Outage,Moderate,319,5.0
+N00010,2025-03-01,Ontario,Service Outage,Moderate,436,6.0
+N00011,2025-03-01,Ontario,Service Outage,Minor,149,1.0
+N00012,2025-03-01,Quebec,Network Degredation,Minor,137,2.0
+N00013,2025-04-01,Quebec,Equipment Failure,Moderate,441,4.0
+N00014,2025-04-01,Ontario,Planned Maintenance,Minor,147,3.0
+N00015,2025-04-01,Ohio,Equipment Failure,Minor,70,2.0
+N00016,2025-05-01,Ohio,Planned Maintenance,Minor,135,4.0
+N00017,2025-05-01,Quebec,Service Outage,Minor,56,3.0
+N00018,2025-05-01,Michigan,Equipment Failure,Major,713,9.0
+N00019,2025-06-01,Michigan,Equipment Failure,Moderate,207,6.0
+N00020,2025-07-01,Ohio,Network Degredation,Moderate,220,6.0
+N00021,2025-07-01,Ontario,Service Outage,Moderate,221,8.0
+N00022,2025-07-01,Michigan,Network Degredation,Minor,53,1.0
+N00023,2025-07-01,Ohio,Network Degredation,Major,716,6.0
+N00024,2025-07-01,Ontario,Equipment Failure,Minor,142,2.0
+N00025,2025-07-01,New York,Network Degredation,Minor,89,3.0
+N00026,2025-07-01,Michigan,Service Outage,Minor,145,3.0
+N00027,2025-08-01,Ontario,Network Degredation,Minor,147,4.0
+N00028,2025-08-01,Quebec,Service Outage,Minor,63,4.0
+N00029,2025-08-01,Ohio,Network Degredation,Minor,80,2.0
+N00030,2025-08-01,Ontario,Service Outage,Moderate,206,6.0
+N00031,2025-08-01,New York,Service Outage,Moderate,491,3.0
+N00032,2025-08-01,Quebec,Network Degredation,Major,1352,6.0
+N00033,2025-09-01,Quebec,Network Degredation,Major,781,4.0
+N00034,2025-09-01,Ohio,Network Degredation,Minor,74,3.0
+N00035,2025-09-01,Michigan,Service Outage,Major,564,13.0
+N00036,2025-09-01,Quebec,Equipment Failure,Moderate,353,8.0
+N00037,2025-09-01,Michigan,Equipment Failure,Moderate,300,4.0
+N00038,2025-09-01,Ohio,Equipment Failure,Moderate,294,5.0
+N00039,2025-10-01,Ohio,Planned Maintenance,Critical,3333,14.0
+N00040,2025-10-01,New York,Service Outage,Minor,100,3.0
+N00041,2025-10-01,Ohio,Service Outage,Moderate,401,3.0
+N00042,2025-10-01,Ontario,Network Degredation,Critical,3396,22.0
+N00043,2025-10-01,Ontario,Equipment Failure,Minor,60,1.0
+N00044,2025-10-01,Ohio,Network Degredation,Moderate,486,3.0
+N00045,2025-11-01,Ontario,Equipment Failure,Moderate,234,7.0
+N00046,2025-11-01,New York,Service Outage,Major,1328,6.0
+N00047,2025-11-01,Michigan,Planned Maintenance,Minor,86,4.0
+N00048,2025-12-01,Ontario,Network Degredation,Minor,134,1.0
+N00049,2025-12-01,Ontario,Planned Maintenance,Major,1430,6.0
+N00050,2025-12-01,Quebec,Service Outage,Minor,116,3.0
+N00051,2025-12-01,New York,Network Degredation,Minor,80,3.0
+N00052,2025-12-01,Ohio,Network Degredation,Moderate,268,3.0

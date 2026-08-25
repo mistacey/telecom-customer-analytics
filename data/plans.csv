@@ -1,0 +1,6 @@
+plan_id,plan_name,monthly_price,speed_mbps,contract_type
+P001,Essential,55,100,Month-to-month
+P002,Standard,75,500,Month-to-month
+P003,Premium,95,1000,2-year
+P004,Ultra,120,1500,2-year
+P005,Business Pro,150,2000,2-year
