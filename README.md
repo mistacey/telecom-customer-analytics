@@ -37,7 +37,7 @@ The completed Tableau Story presents the analysis through two dashboards:
 2. **Churn Analysis**
    - Analysis of churn across contract type, subscription plan, support-ticket activity, data usage, and customer segment
 
-**[View the interactive Tableau dashboard]https://public.tableau.com/shared/HXKX7JTW9?:display_count=n&:origin=viz_share_link**
+**[View the interactive Tableau dashboard](https://public.tableau.com/shared/HXKX7JTW9?:display_count=n&:origin=viz_share_link)**
 
 ## Tools & Technologies
 
